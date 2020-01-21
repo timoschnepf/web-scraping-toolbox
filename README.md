@@ -1,7 +1,7 @@
 # Web Scraping Building Blocks
 Building blocks for a web-scraping script in python3.6
 
-This is not a running python-script but building blocks to set up your own web-scraper in python3.6
+This is NOT a RUNNING python-script but building blocks to set up your own web-scraper in python3.6
 
 It contains the following:  <br />
 
