@@ -5,9 +5,9 @@ This is not a running python-script but building blocks to set up your own web-s
 
 It contains the following:
 
-I) Getting the innerHTML code of a webpage
-Ia) where innerHTML = frontEnd
-Ib) where innerHTML != frontEnd, i.e. JavaScript, with Selenium
+I) Getting the innerHTML code of a webpage  <br />
+  Ia) where innerHTML = frontEnd  <br />
+  Ib) where innerHTML != frontEnd, i.e. JavaScript, with Selenium  <br />
 
 II) Automated navigation within pages with Selenium
 
